@@ -1,0 +1,48 @@
+[0.0002] [120B] [DEBUGGER_START] Advanced Debugger initialized
+[0.0011] [3.58KB] [STEP_START] Step 1: DEBUG_INITIALIZATION
+Data: Array
+(
+    [step_id] => 1
+    [data] => Array
+        (
+            [mode] => comprehensive
+        )
+
+)
+
+[0.0014] [4.94KB] [SYSTEM_INFO] PHP Version: 8.2.12
+[0.0016] [5.93KB] [SYSTEM_INFO] Server OS: Windows NT
+[0.0019] [6.92KB] [SYSTEM_INFO] Memory Limit: 512M
+[0.0023] [7.92KB] [SYSTEM_INFO] Max Execution Time: 120s
+[0.0031] [9.66KB] [STEP_START] Step 2: DEBUG_MODE_ACTIVATION
+Data: Array
+(
+    [step_id] => 2
+    [data] => Array
+        (
+        )
+
+)
+
+[0.0034] [11.76KB] [STEP_START] Step 3: CLASS_VERIFICATION
+Data: Array
+(
+    [step_id] => 3
+    [data] => Array
+        (
+        )
+
+)
+
+[0.0036] [13.07KB] [CLASS_VERIFICATION_START] Starting comprehensive class verification
+[0.0048] [17.06KB] [CLASS_LOADING] Loading class: Config from: /includes/config/Config.php
+[0.0056] [37.2KB] [CLASS_LOADED] Successfully loaded class: Config
+[0.0066] [39.65KB] [CLASS_LOADING] Loading class: Database from: /includes/database/Database.php
+[0.0072] [51.23KB] [CLASS_LOADED] Successfully loaded class: Database
+[0.0080] [53.32KB] [CLASS_LOADING] Loading class: Session from: /includes/session/Session.php
+[0.0098] [70.3KB] [CLASS_LOADED] Successfully loaded class: Session
+[0.0107] [72.38KB] [CLASS_LOADING] Loading class: Auth from: /includes/auth/Auth.php
+[0.0115] [135.84KB] [CLASS_LOADED] Successfully loaded class: Auth
+[0.0120] [138.22KB] [CLASS_LOADING] Loading class: Theme from: /includes/theme/Theme.php
+[0.0126] [165.84KB] [CLASS_LOADED] Successfully loaded class: Theme
+[0.0132] [167.93KB] [CLASS_LOADING] Loading class: AddonManager from: /includes/addon/AddonManager.php
